@@ -1,0 +1,23 @@
+ .cat1{
+        border-radius: 15px;
+        width: 200px;
+        margin:10px;
+      }
+ .cat2{
+      margin:10px;
+      width: 200px;
+      height:200px;
+      object-fit: cover;
+      object-position: center;
+ }
+ .cat3{
+      margin:10px;
+      border: none;
+      border-radius:100px;
+      width: 200px;
+      height:200px;
+      object-fit: cover;
+      object-position: center;
+      
+ }
+
