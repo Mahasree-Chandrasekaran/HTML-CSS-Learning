@@ -1,0 +1,23 @@
+<button>Shadow</button>
+<style>
+  button{
+    color: white;
+    background-color: green;
+    border:none;
+    vertical-align: top;
+    padding-top:4px;
+    padding-bottom: 4px;
+    padding-right:9px;
+    padding-left:9px;
+    cursor: pointer;
+    transition: box-shadow 0.15s ,margin-top 0.15s, margin-left 0.15s;
+  }
+  button:hover{
+    box-shadow: 1.7px 1.7px 2.3px rgba(0, 0, 0, 0.411);
+  }
+  button:active{
+    margin-left:2px;
+    margin-top:2px;
+    box-shadow: 0 0 0;
+  }
+</style>
