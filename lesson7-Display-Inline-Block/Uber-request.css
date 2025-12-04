@@ -1,0 +1,43 @@
+p{
+  display:block;
+  color: black;
+  font-size: 30px;
+  margin-bottom: 35px;
+}
+input{
+  display: block;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  padding-left:6px;
+  padding-bottom: 6px;
+  font-size: 13px;
+  border: none;
+  margin-top: 8px;
+  width: 300px;
+  background-color: rgb(232, 230, 230);
+}
+.Req{
+  margin-top: 40px;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  padding-left:6px;
+  background-color: black;
+  color: white;
+  display: inline-block;
+  font-size: 13px;
+  margin-right:  20px; 
+  border: none;
+  padding-right: 8px;
+  cursor: pointer;
+}
+.Schedule{
+  font-size: 13px;
+  margin-top: 40px;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  padding-left:6px;
+  border: none;
+  padding-right: 8px;
+  cursor: pointer;
+  background-color: rgb(232, 230, 230);
+}

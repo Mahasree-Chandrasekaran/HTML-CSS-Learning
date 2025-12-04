@@ -1,0 +1,22 @@
+input{
+  border-radius: 30px;
+  display: block;
+  border-style: solid;
+  background-color: white;
+  width: 700px;
+ 
+  padding-left: 18px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  box-shadow:  2px 2px 8px rgba(0, 0, 0, 0.271);
+  border: none;
+  font-size: 13px;
+
+}
+img{
+  display: block;
+  margin-bottom :20px;
+  width: 222px;
+  margin-left: 50px;
+
+}

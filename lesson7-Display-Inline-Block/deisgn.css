@@ -1,0 +1,10 @@
+.name, .email{
+display: block;
+margin-bottom: 10px;
+border-radius: 3px;
+border-color: rgb(196, 196, 196);
+border-style: solid;
+padding: 3px;
+}
+
+
