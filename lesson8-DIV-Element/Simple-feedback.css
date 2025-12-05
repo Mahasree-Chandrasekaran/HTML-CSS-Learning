@@ -1,0 +1,27 @@
+p{
+  color: black;
+  font-size:17px;
+  font-family: Arial, Helvetica, sans-serif;
+
+}
+.feedback{
+  border-width: 1.5px;
+  height: 100px;
+  width: 300px;
+  border-style: solid;
+  padding-left: 20px;
+}
+
+button{
+  margin-right: 5px;
+  padding-left: 3px;
+  padding-right: 3px;
+  padding-top: 3px;
+  padding-bottom: 3px;
+  border-radius: 3px;
+  border-width: 1.4px;
+  border-color: rgb(178, 179, 179);
+  border-style: solid;
+  cursor: pointer;
+  width: 45px;
+}
